@@ -1,0 +1,75 @@
+{
+"id": "char-8492-af",
+"name": "Aldor Stormrage",
+"characterClass": "Battle Mage",
+"level": 14,
+"experience": 48250,
+"isAlive": true,
+"guild": "Northern Wardens",
+"stats": {
+"health": 420,
+"maxHealth": 450,
+"mana": 180,
+"maxMana": 250,
+"strength": 28,
+"agility": 19,
+"intelligence": 64
+},
+"inventory": [
+{
+"id": "item-101",
+"name": "Crystal-Forged Staff",
+"type": "weapon",
+"weight": 3.5,
+"isEquipped": true,
+"durability": 82
+},
+{
+"id": "item-205",
+"name": "Runecloth Robe",
+"type": "armor",
+"weight": 2.1,
+"isEquipped": true,
+"durability": 65
+},
+{
+"id": "item-501",
+"name": "Elixir of Superior Mana",
+"type": "potion",
+"weight": 0.4,
+"isEquipped": false,
+"durability": null
+},
+{
+"id": "item-902",
+"name": "Ancient Dungeon Key",
+"type": "quest",
+"weight": 0.1,
+"isEquipped": false,
+"durability": null
+}
+],
+"skills": [
+{
+"id": "skill-01",
+"name": "Arcane Missile",
+"skillLevel": 4,
+"manaCost": 25,
+"cooldownSeconds": 1.5
+},
+{
+"id": "skill-02",
+"name": "Frost Nova",
+"skillLevel": 2,
+"manaCost": 60,
+"cooldownSeconds": 12.0
+},
+{
+"id": "skill-03",
+"name": "Blink",
+"skillLevel": 1,
+"manaCost": 40,
+"cooldownSeconds": 15.0
+}
+]
+}
